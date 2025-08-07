@@ -9,9 +9,15 @@ Microsoft wants to make Data informed decisions  about what films and  movies to
 ## Project steps
 1.**Data Cleaning**- removed outliers and missing values
 
-2.**Univariate analysis**
+2.**Univariate analysis**:
+   -Runtime distribution
+   -Number of movies released per year for the top 10 years
+   -Top movie genres
 
 3**Bivariate analysis**
+   -Runtime vs genre
+   -start year and runtimes
+   -Genre and count
 
 4**Visualizations**- Used matplotlib, seaborn to create the visuals 
 
