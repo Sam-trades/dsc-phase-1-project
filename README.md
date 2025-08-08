@@ -24,8 +24,10 @@ Microsoft wants to make Data informed decisions  about what films and  movies to
 
 ## Key findings
 1.The most common genres were: Documentary, Drama, comedy and action
+
 2.Movies that are successful range between 80 to 90 minutes
-3.Action movies tend to have a longer runtime but less movies produced
+
+3.Documentary movies tend to have a shorter runtime but most popular genre.
 
 
 ## Recommendation to Microsoft
